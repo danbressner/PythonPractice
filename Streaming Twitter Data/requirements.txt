@@ -1,0 +1,10 @@
+dataset
+datafreeze
+ipython
+matplotlib
+numpy
+pandas
+psycopg2
+scipy
+textblob
+tweepy
