@@ -1,4 +1,5 @@
 # PythonPractice
-This repo contains an assortment of learning & development projects highlighting basic building blocks in Python. 
+This repo contains an a variety of basic Python tutorials and building block exercises. 
 
-Its also something to do during COVID-19.
+Its a representation of tutorials watched on TalkPython FM, Udemy, and YouTube over the course of several months during COVID-19. 
+
